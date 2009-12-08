@@ -1,0 +1,1 @@
+ruby rubyscript2exe-0.5.3.rb cash.rbw --rubyscript2exe-rubyw

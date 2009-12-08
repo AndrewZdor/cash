@@ -1,0 +1,10 @@
+ComPort: COM1
+BaudRate: 115200
+ReadInterval: 100
+User: Касир
+Password: 1111111111
+InputFile: IN\Input.cash 
+OutputFile: OUT\Output.cash
+TimeOut: 0.1
+BusyTimeOut: 0.2
+ConnectOnStartup: false
